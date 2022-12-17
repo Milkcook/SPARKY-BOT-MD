@@ -14,31 +14,37 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //nama lu
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
-global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "github.com/Sparkymon777/SPARKY-BOT-MD" //ganti group lu
-global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
+global.vcardowner = ['916282818033'] //ganti nomer lu
+global.ownername = "*🇨🇦⃟✰𝐊͢ᴀ⃗ʀɪʏᴜɢᴀ᪳ɴ͓<✦>𝐄⃗͢ғx̫✰⃟🇨🇦*" //ganti nama lu
+global.developer = "AKASH" //nama lu
+
+global.socialm = "https://www.instagram.com/kariyugan_efx_" //taroh sosialmedia lu kalo ga punya biarin aja
+global.sgc = "github.com/Milkcook/SPARKY-BOT-MD" //ganti group lu
+global.location = "Kerala,TVM," //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
+global.owner = ['916282818033'] //ur number
+global.ownernomer = "916282818033" //ur number
+global.ownertag = '916282818033' //ur tag number
+global.premium = ['916282818033'] //ur premium number
+global.botname = 'KARIYUGAN SER+' //ur bot name
+global.ownername = "*🇨🇦⃟✰𝐊͢ᴀ⃗ʀɪʏᴜɢᴀ᪳ɴ͓<✦>𝐄⃗͢ғx̫✰⃟🇨🇦*"
+global.linkz = "" //your theme url which will be displayed on whatsapp
 global.dana = "917012984396"
 global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
+global.websitex = "" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
+global.botscript = 'https://github.com/Milkcooki/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "🦋⃟𝐊ᴀʀɪʏᴜɢᴀɴ_𝐄ᶠˣ_🦋
+
+𝐊ɪss 𝐔ʜ🙈💋
+
+Eᴅɪᴛᴇʀ🦋
+
+ღല്ല ക𝆺𝅥ട്ട᭄͢🍷🌿" //ur sticker watermark packname
+global.author = "AKASH" //ur sticker watermark author
+global.wm = "🇰 🇦 🇷 🇮 🇾 🇺 🇬 🇦 🇳 " //ur watermark
 
 // Other
 global.sessionName = 'session'
